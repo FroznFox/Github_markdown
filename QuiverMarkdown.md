@@ -65,6 +65,10 @@ You can use inline LaTeX inside Markdown cells as well, for example, $x^2$.
 
 
 
+
+
+
+---------LaTeX  seems does not work-----------------------------------------------------=---------------------------------------
 LaTeX cells make it easy to typeset math equations. For example,
 
 \begin{align}
