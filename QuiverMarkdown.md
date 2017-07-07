@@ -16,6 +16,17 @@ Markdown cells support standard Markdown syntax as well as GitHub Flavored Markd
 
 `inline code`
 
+`package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+	// write your code here
+        System.out.println("hello world");
+    }
+}`
+
+
 ### Lists
 
 1. First ordered list item
