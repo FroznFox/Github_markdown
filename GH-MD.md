@@ -3,7 +3,7 @@ Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com 
 
 Headers
 
-# This is an H1<h1> tag
+# This is an </h1> tag
 ## This is an H2<h2> tag
 ###### This is an H6 <h6> tag
 Emphasis
