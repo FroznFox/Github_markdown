@@ -65,7 +65,7 @@ GitHub.com uses its own version of the Markdown syntax that provides an addition
 Note that some features of GitHub Flavored Markdown are only available in the descriptions and comments of Issues and Pull Requests. These include @mentions as well as references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also available in Gist comments and in Gist Markdown files.
 
 Syntax highlighting
-
+------
 Here’s an example of how you can use syntax highlighting with GitHub Flavored Markdown:
 
 ```javascript
@@ -96,7 +96,7 @@ Task Lists
 If you include a task list in the first comment of an Issue, you will get a handy progress indicator in your issue list. It also works in Pull Requests!
 
 Tables
-
+------
 You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
 
 First Header | Second Header
