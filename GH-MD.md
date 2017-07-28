@@ -7,8 +7,6 @@ Headers
 ## This is an H2 tag
 ###### This is an H6 tag
 ------
-/
-/
 
 Add linetitle
 -----
