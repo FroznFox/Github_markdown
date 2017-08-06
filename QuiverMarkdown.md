@@ -97,11 +97,11 @@ You can use inline LaTeX inside Markdown cells as well, for example, $x^2$.
 
 
 --------------------------LaTeX  seems does not work-----------------------------------------------------=-------------------------
-LaTeX cells make it easy to typeset math equations. For example,
+~~LaTeX cells make it easy to typeset math equations. For example,~~
 
-\begin{align}
+~~\begin{align}
 \nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}} \\
 \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\
 \nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\
 \nabla \cdot \vec{\mathbf{B}} & = 0
-\end{align}
+\end{align}~~
