@@ -263,7 +263,7 @@ In other words, a number-period-space sequence at the beginning of a line. To av
 1986\. What a great season.
 CODE BLOCKS
 
-Pre-formatted code blocks are used for writing about programming or markup source code. Rather than forming normal paragraphs, the lines of a code block are interpreted literally. Markdown wraps a code block in both <pre> and <code> tags.
+Pre-formatted code blocks are used for writing about programming or markup source code. Rather than forming normal paragraphs, the lines of a code block are interpreted literally. Markdown wraps a code block in both pre and code tags.
 
 To produce a code block in Markdown, simply indent every line of the block by at least 4 spaces or 1 tab. For example, given this input:
 
