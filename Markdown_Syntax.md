@@ -27,6 +27,13 @@ This is a regular paragraph.
         <td>Foo</td>
     </tr>
 </table>
+<table>
+    <tr>
+        <td>F1</td>
+        <td>F2</td>
+        <td>F3</td>
+    </tr>
+</table>
 
 This is another regular paragraph.
 Note that Markdown formatting syntax is not processed within block-level HTML tags. E.g., you can’t use Markdown-style *emphasis* inside an HTML block.
